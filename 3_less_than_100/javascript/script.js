@@ -10,3 +10,4 @@ if (number < 100) {
 } else {
 	alert("The number is 101 and < than 100");
 }
+console.log(number);
